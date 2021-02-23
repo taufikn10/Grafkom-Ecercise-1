@@ -58,7 +58,7 @@ public class Main {
         
         frame.setLayout(new GridLayout(1,2,3,4));
         
-//        jika ingin melihat satu satu tambahkan tanda (//)
+//        jika ingin melihat satu satu tambahkan tanda (//) pada frame dan dda yang tidak digunakan
         frame.setBounds(450,100,700,400);
         frame.setSize(600,480);
         frame.setVisible(true);
